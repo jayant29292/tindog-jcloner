@@ -1,1 +1,1 @@
-# tindog-jcloner
+TinDog Starting Files
